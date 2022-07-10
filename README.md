@@ -1,6 +1,5 @@
 - 👋  Hi, I’m @ianforrest
-- 🌱  I’m currently focused on headless content management systems, modern CSS, GraphQL, and Jamstack tools like Gatsby and Netlify.
-- 💞️  I’m looking to collaborate on any React-related mini projects.
+- 🌱  I’m currently experimenting with RedwoodJS.
 - 📫  How to reach me: @ianforrest in most places!
 
 <!---
