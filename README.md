@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @ianforrest
-- 🌱  I’m currently experimenting with RedwoodJS.
+- 🌱  I’m currently experimenting with Claude Code, Cowork, Vercel, NextJS, Stripe APIs, Clerk, and other plug-and-play ____-as-a-service products.
 - 📫  How to reach me: @ianforrest in most places!
 
 <!---
